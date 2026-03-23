@@ -1,5 +1,6 @@
-Pen Design
+## Pen Design
 
+```
 +------------------+
 |   <<enum>>       |
 |     Color        |
@@ -36,3 +37,4 @@ Pen Design
 | + changeRefill(refill)     |
 | + getColor()               |
 +----------------------------+
+```
